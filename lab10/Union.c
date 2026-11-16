@@ -13,7 +13,7 @@ int main()
 
     d.i = 10;
 
-    printf("my name is Shivam Deshmukh solve question 25\n ");
+    printf("my name is vansh verma solve question \n ");
     printf("Integer: %d", d.i);
 
     return 0;
